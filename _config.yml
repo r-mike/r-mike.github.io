@@ -29,6 +29,9 @@ title: r-mike
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+theme_config:
+  date_format: "%Y-%m-%d" # customize how date is formatted
+
 # Build settings
 markdown: kramdown
 remote_theme: riggraz/no-style-please
