@@ -30,9 +30,10 @@ title: Blog
 #github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+markdown: kramdown
+remote_theme: riggraz/no-style-please
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
